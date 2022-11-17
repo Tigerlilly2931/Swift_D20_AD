@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1001EC7529269159006CE63A /* failwah.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1001EC7429269159006CE63A /* failwah.mp3 */; };
+		1001EC772926916A006CE63A /* rolldice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1001EC762926916A006CE63A /* rolldice.mp3 */; };
+		1001EC7929269177006CE63A /* zfanfare.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1001EC7829269177006CE63A /* zfanfare.mp3 */; };
 		10246A1F2923D6C000D5F000 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10246A1E2923D6C000D5F000 /* AppDelegate.swift */; };
 		10246A212923D6C000D5F000 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10246A202923D6C000D5F000 /* SceneDelegate.swift */; };
 		10246A232923D6C000D5F000 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10246A222923D6C000D5F000 /* ViewController.swift */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1001EC7429269159006CE63A /* failwah.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = failwah.mp3; path = Swift_D20_AD/Assets.xcassets/failwah.dataset/failwah.mp3; sourceTree = "<group>"; };
+		1001EC762926916A006CE63A /* rolldice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = rolldice.mp3; path = Swift_D20_AD/Assets.xcassets/rolldice.dataset/rolldice.mp3; sourceTree = "<group>"; };
+		1001EC7829269177006CE63A /* zfanfare.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = zfanfare.mp3; path = Swift_D20_AD/Assets.xcassets/zfanfare.dataset/zfanfare.mp3; sourceTree = "<group>"; };
 		10246A1B2923D6C000D5F000 /* Swift_D20_AD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift_D20_AD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10246A1E2923D6C000D5F000 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		10246A202923D6C000D5F000 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +46,9 @@
 		10246A122923D6BF00D5F000 = {
 			isa = PBXGroup;
 			children = (
+				1001EC7829269177006CE63A /* zfanfare.mp3 */,
+				1001EC762926916A006CE63A /* rolldice.mp3 */,
+				1001EC7429269159006CE63A /* failwah.mp3 */,
 				10246A1D2923D6C000D5F000 /* Swift_D20_AD */,
 				10246A1C2923D6C000D5F000 /* Products */,
 			);
@@ -125,6 +134,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1001EC7929269177006CE63A /* zfanfare.mp3 in Resources */,
+				1001EC772926916A006CE63A /* rolldice.mp3 in Resources */,
+				1001EC7529269159006CE63A /* failwah.mp3 in Resources */,
 				10246A2B2923D6C100D5F000 /* LaunchScreen.storyboard in Resources */,
 				10246A282923D6C100D5F000 /* Assets.xcassets in Resources */,
 				10246A262923D6C000D5F000 /* Main.storyboard in Resources */,
